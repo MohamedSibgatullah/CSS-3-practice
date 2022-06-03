@@ -1,0 +1,15 @@
+.box{
+    width: 400px;
+    height: 200px;
+    border: 5px solid red;
+    overflow: scroll;
+}
+.logo{
+    height: 100px;
+    width: 100px;
+}
+.box2{
+    border: 4px solid greenyellow;
+    width: 400px;
+    height: 200px;
+}
